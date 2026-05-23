@@ -1,0 +1,73 @@
+aid: insilico-medicine
+name: Insilico Medicine
+description: >-
+  Insilico Medicine is a clinical-stage biotechnology company applying
+  generative AI and robotic automation to drug discovery and development.
+  Its Pharma.AI software suite includes PandaOmics (target discovery from
+  multi-omics data), Chemistry42 (generative chemistry with retrosynthesis,
+  property prediction, and ADMET), Generative Biologics, inClinico (clinical
+  trial outcome prediction), Science42 DORA (research assistant), Nach01,
+  and PreciousGPT-family models for life sciences. The company runs its own
+  therapeutic pipeline spanning oncology, fibrosis, and inflammation, with
+  programs targeting TNIK, USP1, QPCTL, PHD, MAT2A, TEAD, ENPP1, KAT6 and
+  others through Phase II. Insilico monetizes through Pharma.AI software
+  licensing, partnerships with major pharmaceutical companies, and progression
+  of its in-house assets. Pharma.AI tools are commercial SaaS products
+  accessed via web UI; the company publishes open-source research code on
+  GitHub (GENTRL, fcd_torch, BiAAE, DD-VAE, DORA) but does not expose a
+  public commercial API.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Drug Discovery
+  - Biotech
+  - Pharmaceuticals
+  - Generative AI
+  - Generative Chemistry
+  - Target Discovery
+  - Multi-Omics
+  - Aging
+  - Longevity
+  - Clinical Trials
+  - ADMET
+  - Retrosynthesis
+  - Pharma.AI
+  - Chemistry42
+  - PandaOmics
+url: https://raw.githubusercontent.com/api-evangelist/insilico-medicine/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://insilico.com
+  - type: Platform
+    url: https://pharma.ai
+  - type: Pipeline
+    url: https://insilico.com/pipeline
+  - type: Products
+    url: https://insilico.com/platform
+  - type: Publications
+    url: https://insilico.com/publications
+  - type: InvestorRelations
+    url: https://ir.insilico.com
+  - type: Newsroom
+    url: https://insilico.com/news
+  - type: Blog
+    url: https://insilico.com/blog
+  - type: Careers
+    url: https://insilico.com/careers
+  - type: GitHubOrganization
+    url: https://github.com/insilicomedicine
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/insilico-medicine
+  - type: Twitter
+    url: https://twitter.com/InSilicoMeds
+  - type: Contact
+    url: https://insilico.com/contact
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
